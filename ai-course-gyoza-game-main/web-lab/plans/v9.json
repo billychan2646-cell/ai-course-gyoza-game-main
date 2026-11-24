@@ -1,0 +1,11 @@
+{
+  "name": "v9：以 v8 為基礎，依 reorder-check 把 v8 盤點中缺貨的菜補到 suggest：(1) 招牌鍋貼 18/13/30/20/20、(2) 紅茶 16/11/16/18/17、(3) 酸辣湯 D2=13 D3=6 D5=15、玉米鍋貼 D4=13 D5=20；售價不動",
+  "pack": "official",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "酸辣湯", "qty": 10, "price": 35 }, { "name": "玉米鍋貼", "qty": 10, "price": 80 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 13, "price": 60 }, { "name": "酸辣湯", "qty": 13, "price": 35 }, { "name": "玉米鍋貼", "qty": 10, "price": 80 }, { "name": "紅茶", "qty": 11, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 30, "price": 60 }, { "name": "酸辣湯", "qty": 6, "price": 35 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 60 }, { "name": "酸辣湯", "qty": 10, "price": 35 }, { "name": "玉米鍋貼", "qty": 13, "price": 80 }, { "name": "紅茶", "qty": 18, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 20, "price": 60 }, { "name": "酸辣湯", "qty": 15, "price": 35 }, { "name": "玉米鍋貼", "qty": 20, "price": 80 }, { "name": "紅茶", "qty": 17, "price": 25 } ], "promoCost": 0 }
+  ]
+}

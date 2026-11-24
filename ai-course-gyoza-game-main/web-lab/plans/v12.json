@@ -1,0 +1,11 @@
+{
+  "name": "v12：以 v11 為基礎，只改 1 處：D5 玉米鍋貼 80→90（最後一天、80 份上限已滿，三種想吃玉米的客人預算 90/120/150 都付得起）；備貨不動",
+  "pack": "official",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "酸辣湯", "qty": 6, "price": 35 }, { "name": "玉米鍋貼", "qty": 6, "price": 80 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "酸辣湯", "qty": 18, "price": 35 }, { "name": "玉米鍋貼", "qty": 11, "price": 80 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 42, "price": 60 }, { "name": "酸辣湯", "qty": 8, "price": 35 }, { "name": "紅茶", "qty": 22, "price": 25 }, { "name": "豆漿", "qty": 8, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 27, "price": 60 }, { "name": "酸辣湯", "qty": 10, "price": 35 }, { "name": "玉米鍋貼", "qty": 17, "price": 80 }, { "name": "紅茶", "qty": 24, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 30, "price": 60 }, { "name": "酸辣湯", "qty": 19, "price": 35 }, { "name": "玉米鍋貼", "qty": 31, "price": 90 } ], "promoCost": 0 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "v10：以 v9 為基礎，(1) D1 酸辣湯/玉米 10→6 拚零報廢任務、(2) D2~D4 缺貨菜補到 v9 盤點 suggest、(3) D5 suggest 合計 111 超過 80 上限，依每份毛利排序：玉米31、招牌30、酸辣湯19、紅茶下架；售價不動",
+  "pack": "official",
+  "days": [
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "酸辣湯", "qty": 6, "price": 35 }, { "name": "玉米鍋貼", "qty": 6, "price": 80 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 18, "price": 60 }, { "name": "酸辣湯", "qty": 18, "price": 35 }, { "name": "玉米鍋貼", "qty": 11, "price": 80 }, { "name": "紅茶", "qty": 16, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 39, "price": 60 }, { "name": "酸辣湯", "qty": 8, "price": 35 }, { "name": "紅茶", "qty": 21, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 25, "price": 60 }, { "name": "酸辣湯", "qty": 10, "price": 35 }, { "name": "玉米鍋貼", "qty": 16, "price": 80 }, { "name": "紅茶", "qty": 23, "price": 25 } ], "promoCost": 0 },
+    { "items": [ { "name": "招牌鍋貼", "qty": 30, "price": 60 }, { "name": "酸辣湯", "qty": 19, "price": 35 }, { "name": "玉米鍋貼", "qty": 31, "price": 80 } ], "promoCost": 0 }
+  ]
+}
